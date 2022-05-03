@@ -1,5 +1,4 @@
 ## Hi! Welcome to my profile. 👋
-##
 📚 - Computer Engineering Student at the Paulista University. 
 
 🌱 - Learning C/C++ and Python
