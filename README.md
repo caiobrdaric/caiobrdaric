@@ -2,11 +2,13 @@
 📚 - Computer Engineering Student at the Paulista University. 
 
 🌱 - Learning C/C++ and Python
-##
+
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [caiobrdaric@gmail.com](mailto:caiobrdaric@gmail.com)
 * 🧠  I'm learning C/C++, C# and Python
 * ⚡  I love games and technology
+
+#
 
 ### Skills
 
@@ -25,7 +27,7 @@
 
 <p align="left"> <a href="https://discord.com/users/k1ngBrdaric#8308" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/caiobrdaric" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/caiobrdaric/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/caio-brdaric-78a7511a4/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/k1ngbrdaric" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
-### Badges
+##
 
 <b>My GitHub Stats</b>
 
