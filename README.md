@@ -1,4 +1,4 @@
-## Hi! Welcome to my profile. 🐱‍👤
+## Welcome to my lab 😎🤞
 * 📚  Computer Engineering Student at the Paulista University. 
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [caiobrdaric@gmail.com](mailto:caiobrdaric@gmail.com)
