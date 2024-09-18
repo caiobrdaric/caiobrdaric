@@ -29,5 +29,3 @@
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/caiobrdaric"><img src="https://github-readme-streak-stats.herokuapp.com/?user=caiobrdaric&stroke=ffffff&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/caiobrdaric"><img src="https://activity-graph.herokuapp.com/graph?username=caiobrdaric&bg_color=000000&color=ffffff&line=22c55e&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
